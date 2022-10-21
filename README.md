@@ -14,7 +14,7 @@ We recommend using VSCode.
 
 The image of the Web Page will look like this:
 
-![Asian Kitchen](img/Asian-Kitchen.png)
+![Asian Kitchen](asianKitchen.png)
 
 # Project clone
 ---
